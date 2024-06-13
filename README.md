@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Gabriel Vinícius</h2>
+<h2 align="center">Olá 👋! Meu nome é Gabriel Vinícius</h2></
 <br>
 
 <div align="center" style="text-align: center;">
@@ -6,8 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLaacerda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 150px;" />
 </div>
 
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" align="right" height="150" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -40,4 +39,11 @@
 
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
