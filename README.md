@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Vinícius!+:%29)](https://git.io/typing-svg)
-<br><br>
+<br>
 <div>
   <a href="https://github.com/GabrielLaacerda">
   <img height="180cm" src="https://github-readme-stats2-9gpx-gabriellaacerda.vercel.app/api?username=GabrielLaacerda&show_icons=true&count_private=true&theme=onedark" />
