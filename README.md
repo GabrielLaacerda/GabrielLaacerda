@@ -1,10 +1,13 @@
 <h2 align="left">Olá 👋! Meu nome é Gabriel Vinícius</h2>
 <br>
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats2-9gpx-gabriellaacerda.vercel.app/api?username=GabrielLaacerda&show_icons=true&count_private=true&theme=onedark" style="height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLaacerda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 150px;" />
+<div style="width: 100%; display: flex; justify-content: center;">
+  <div style="text-align: center; width: 80%;">
+    <img src="https://github-readme-stats2-9gpx-gabriellaacerda.vercel.app/api?username=GabrielLaacerda&show_icons=true&count_private=true&theme=onedark" style="height: 150px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLaacerda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 150px;" />
+  </div>
 </div>
+
 
 
 <picture>
