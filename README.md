@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-<img height="180cm" src="https://github-readme-stats2-9gpx-gabriellaacerda.vercel.app/api?username=GabrielLaacerda&show_icons=true&count_private=true&theme=onedark" />
+<img src="https://github-readme-stats2-9gpx-gabriellaacerda.vercel.app/api?username=GabrielLaacerda&show_icons=true&count_private=true&theme=onedark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielLaacerda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
